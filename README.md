@@ -1,0 +1,2 @@
+# xinjing_news
+这是一个使用flask框架开发的财经类的新闻app
